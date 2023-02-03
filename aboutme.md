@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Despite the website name, my real name is Eric!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Eric BeCude-McWilliams. Some skills I posses:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- Intermediate C# Programming - I am proficient in C# but I still have a good deal to learn.
+- Unity 3D - I have made a handful of prototypes. One of which can be found over on my portfolio tab.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My journey into programming began when I found out that I could make games. Like a lot of people in my particular age range, I started with Unity and learned the basics of C# along with it. I still have a fondness for game development but I'd like to expand my horizons into other areas, such as web design and maybe embedded programming too, eventually.
+
+### Contact Me
+
+If you would like to get in touch with me or get a copy of my resume please email me using the buttons at the bottom of the page. Thanks!

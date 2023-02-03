@@ -21,9 +21,10 @@ author: Eric BeCude-McWilliams
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Portfolio: "portfolio"
+  # Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    # Learn markdown: "https://www.markdowntutorial.com/"
   Home: "elysrealm.github.io"
 
 ################
