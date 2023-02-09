@@ -25,7 +25,7 @@ navbar-links:
   # Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     # Learn markdown: "https://www.markdowntutorial.com/"
-  Home: "elysrealm.github.io"
+  # Home: "elysrealm.github.io"
   Contact: "contactme"
 
 ################
@@ -60,7 +60,7 @@ social-network-links:
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: eric-becude
+  linkedin: "eric-becude"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
