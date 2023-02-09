@@ -24,9 +24,12 @@ I am an enthusiastic and driven programmer, with a passion for creating innovati
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Your Name</label>
     <input type="text" name="name" id="full-name" placeholder="John Doe" required="">
+    <br/>
     <label for="email-address">Your Email</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@example.com" required="">
+    <br/>
     <label for="message">Your Message</label>
+    <br/>
     <textarea rows="5" name="message" id="message" placeholder="Your wonderful message, here." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   <div data-lastpass-icon-root="true" style="position: relative !important; height: 0px !important; width: 0px !important; float: left !important;"></div></fieldset>
