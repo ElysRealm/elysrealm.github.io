@@ -16,7 +16,7 @@ I am an enthusiastic and driven programmer, with a passion for creating innovati
 
 ### My Resume
 
-//put resume here!
+[My resume can be found here.](https://raw.githubusercontent.com/ElysRealm/elysrealm.github.io/main/docs/Eric_BeCude_Resume.pdf)
 
 ### Contact Me
 
