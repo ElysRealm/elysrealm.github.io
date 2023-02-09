@@ -26,6 +26,7 @@ navbar-links:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     # Learn markdown: "https://www.markdowntutorial.com/"
   Home: "elysrealm.github.io"
+  Contact: "contactme"
 
 ################
 # --- Logo --- #

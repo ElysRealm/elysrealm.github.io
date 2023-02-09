@@ -1,22 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Despite the website name, my real name is Eric!
+subtitle: Here is where you can get in touch with me!
 ---
-
-My name is Eric BeCude here you may read about my personal story and also get in touch with me. Some skills I have:
-
-- Intermediate C# Programming and Designing
-- Intermediate Unity 3D Design
-- Intermediate Web Design
-
-### My story
-
-I am an enthusiastic and driven programmer, with a passion for creating innovative solutions using code. My journey in the field began with game development using Unity and C#, where I honed my skills in problem-solving and developed a solid understanding of programming fundamentals. However, my curiosity and desire to learn have led me to explore other areas such as web design and more!
-
-### My Resume
-
-//put resume here!
 
 ### Contact Me
 
