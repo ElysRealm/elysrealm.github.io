@@ -15,4 +15,4 @@ Stay Focused is a simple console application that looks at what program you are 
 
 <img src="https://i.imgur.com/IZzWRvk.gif" width="400" height="400" />
 
-The Vertex Whisperer was a prototype that I made in Unity quite a while ago. The core mechanic is being able to grab vertices and manipulate them in real time. You can check out the code for that [here](https://github.com/ElysRealm/The-Vertex-Whisperer-Core-Manipulator-Code).
+The Vertex Whisperer was a prototype that I made in Unity quite a while ago. The core mechanic is being able to grab vertices and manipulate them in real time.
