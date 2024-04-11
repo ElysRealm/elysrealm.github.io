@@ -6,9 +6,9 @@ subtitle: Despite the website name, my real name is Eric!
 
 My name is Eric BeCude here you may read about my personal story and also get in touch with me. Some skills I have:
 
-- Intermediate C# Programming and Designing
-- Intermediate Unity 3D Design
-- Intermediate Web Design
+- Advanced Proficiency C# Programming and Designing
+- Proficient in Java, Python, Android App Development, Web Development and much more.
+- Advanced knowledge of game engine toolchains especially in Unity and GoDot.
 
 ### My story
 
